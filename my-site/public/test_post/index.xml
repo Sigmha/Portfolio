@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Test_posts on My New Hugo Site</title>
+    <link>//localhost:1313/test_post/</link>
+    <description>Recent content in Test_posts on My New Hugo Site</description>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Oct 2024 20:19:50 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/test_post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My_first</title>
+      <link>//localhost:1313/test_post/my_first/</link>
+      <pubDate>Sun, 13 Oct 2024 20:19:50 +0200</pubDate>
+      <guid>//localhost:1313/test_post/my_first/</guid>
+      <description>&lt;h1 id=&#34;ouais-ouais-ouais&#34;&gt;Ouais ouais ouais&lt;/h1&gt;
+&lt;p&gt;ok ouais&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
