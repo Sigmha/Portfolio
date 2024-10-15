@@ -1,7 +1,6 @@
 ---
 title: HOME
 description: Home page
-images: ["/static/arthur.jpg"]
 ---
 
 Hi !

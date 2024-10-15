@@ -10,11 +10,11 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, I'm Arthur :wave:"
-  sub = "I'm a a simulation ingeneer student"
+  main = "Hi, I'm Arthur !"
+  sub = "I'm a simulation ingeneer student 	:man_technologist:"
 
 [params.main]
-  latestPublishHeader = "My Latest Project"
+  latestPublishHeader = "My Projects"
 
 [taxonomies]
   design = "designs"
@@ -38,7 +38,7 @@ pygmentsCodeFences=true
   # Define how your sections will be called
   # when automatically pulled. For instance in the 404 page
   post = "article"
-  projects = "project"
+  portfolio = "project"
 
 [params.sidebar]
   backgroundImage = "" # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
@@ -51,8 +51,6 @@ pygmentsCodeFences=true
 [params.social]
   github = "https://github.com/"
   linkedin = "https://www.linkedin.com/in/"
-  facebook = "https://www.facebook.com/"
-  instagram = "https://www.instagram.com/"
 [params.contact]
   email = "arthur.chanlock@gmail.com"
   text= "arthur.chanlock@gmail.com" # text of the contact link in the sidebar. If email params.contact.email is defined
