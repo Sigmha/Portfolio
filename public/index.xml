@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HOME on Arthur Chan-Lock</title>
+    <link>http://localhost:1313/Portfolio/</link>
+    <description>Recent content in HOME on Arthur Chan-Lock</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Arthur Chan-Lock</copyright>
+    <lastBuildDate>Sat, 06 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Twino</title>
+      <link>http://localhost:1313/Portfolio/portfolio/tuiva/</link>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Portfolio/portfolio/tuiva/</guid>
+      <description>&lt;p&gt;Experiencing the thrill of riding a foil for everyone.&lt;/p&gt;&#xA;&lt;p&gt;As a group of 10 students, we were working on a project given by Tuiva, a friendly water sports and innovative catamarans company. The main goal of this project is to make the catamaran &amp;ldquo;fly&amp;rdquo; above the water’s surface at a low speed by adding foils. And since the boat is intended for recreational use, it needs to be user-friendly for individuals without navigation experience&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Marine currents and poullution movement</title>
+      <link>http://localhost:1313/Portfolio/portfolio/ppr/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Portfolio/portfolio/ppr/</guid>
+      <description>&lt;p&gt;This would be a description of your sample project. You can add any content you&amp;rsquo;d like.&lt;/p&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod&#xA;tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,&#xA;quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo&#xA;consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse&#xA;cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non&#xA;proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sample project</title>
+      <link>http://localhost:1313/Portfolio/portfolio/sample-project/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      <guid>http://localhost:1313/Portfolio/portfolio/sample-project/</guid>
+      <description>&lt;p&gt;This would be a description of your sample project. You can add any content you&amp;rsquo;d like.&lt;/p&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod&#xA;tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,&#xA;quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo&#xA;consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse&#xA;cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non&#xA;proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Archetypes management</title>
+      <link>http://localhost:1313/Portfolio/post/archetypes/</link>
+      <pubDate>Thu, 02 May 2019 19:25:30 +0200</pubDate>
+      <guid>http://localhost:1313/Portfolio/post/archetypes/</guid>
+      <description>&lt;p&gt;The archetypes are defined in the &lt;code&gt;archetypes&lt;/code&gt; folder, for both post and portfolio.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
