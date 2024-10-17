@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://sigmha.github.io/Portfolio/"
 languageCode = "en-us"
 title = "Arthur Chan-Lock"
 theme = "personal-web-master"
@@ -8,10 +8,11 @@ enableEmoji=true
 enableRobotsTXT=true
 pygmentsUseClasses=true
 pygmentsCodeFences=true
+enableInlineShortcodes = true
 
 [params.intro]
   main = "Hi, I'm Arthur !"
-  sub = "I'm a simulation ingeneer student 	:man_technologist:"
+  sub = "I'm a simulation ingeneering student 	:man_technologist:"
 
 [params.main]
   latestPublishHeader = "My Projects"
@@ -53,7 +54,7 @@ pygmentsCodeFences=true
   linkedin = "https://www.linkedin.com/in/"
 [params.contact]
   email = "arthur.chanlock@gmail.com"
-  text= "arthur.chanlock@gmail.com" # text of the contact link in the sidebar. If email params.contact.email is defined
+  text= "Email: arthur.chanlock@gmail.com" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
 [menu]
@@ -72,12 +73,12 @@ pygmentsCodeFences=true
   url = "/portfolio/"
   weight = -110
 
-[[menu.main]]
-  identifier = "blog"
-  name = "Post"
-  title = "Blog section"
-  url = "/post/"
-  weight = -100
+#[[menu.main]]
+#  identifier = "blog"
+#  name = "Post"
+#  title = "Blog section"
+#  url = "/post/"
+#  weight = -100
 
 [sitemap]
   changefreq = "monthly"

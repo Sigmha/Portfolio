@@ -5,7 +5,7 @@ description: Home page
 
 Hi !
 
-I'm Arthur Chan-Lock, a simulation ingeneer student.
+I'm Arthur Chan-Lock, a simulation ingeneering student.
 
 I am a student at SeaTech Engineering School, currently seeking a 16-week engineering internship from June to August.
 
