@@ -1,7 +1,7 @@
 ---
 title: 
 description: 
-date: "{{ .Date }}"
+date: 
 jobDate: 201
 work: []
 techs: []
