@@ -19,4 +19,4 @@ I also completed an international mobility program in Canada at an English-speak
 If you are interested in my profile, check my resume below, and don’t hesitate to contact me via my email or LinkedIn page!
 
 
-[Take a look at my resume!](/about "Take a look at my resume!")
+[Take a look at my resume!](about/ "Take a look at my resume!")

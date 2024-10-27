@@ -1,4 +1,4 @@
-baseURL = "https://sigmha.github.io/"
+baseURL = "https://sigmha.github.io/Portfolio/"
 languageCode = "en-us"
 title = "Arthur Chan-Lock"
 theme = "personal-web-master"
@@ -50,7 +50,7 @@ enableInlineShortcodes = true
   customCSS = ""
 
 [params.social]
-  github = "https://github.com/Sigmha"
+#  github = "https://github.com/Sigmha"
   linkedin = "https://www.linkedin.com/in/arthur-chan-lock-321168295/?originalSubdomain=fr"
 [params.contact]
   email = "arthur.chanlock@gmail.com"

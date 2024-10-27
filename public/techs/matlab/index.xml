@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MatLab on Arthur Chan-Lock</title>
-    <link>http://localhost:1313/techs/matlab/</link>
+    <link>http://localhost:1313/Portfolio/techs/matlab/</link>
     <description>Recent content in MatLab on Arthur Chan-Lock</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Arthur Chan-Lock</copyright>
     <lastBuildDate>Sat, 06 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/techs/matlab/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Portfolio/techs/matlab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project Twino</title>
-      <link>http://localhost:1313/portfolio/tuiva/</link>
+      <link>http://localhost:1313/Portfolio/portfolio/tuiva/</link>
       <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tuiva/</guid>
+      <guid>http://localhost:1313/Portfolio/portfolio/tuiva/</guid>
       <description>&lt;p&gt;Experiencing the thrill of riding a foil for everyone.&lt;/p&gt;&#xA;&lt;p&gt;As a group of 10 students, we were working on a project given by Tuiva, a friendly water sports and innovative catamaran company. The main goal of this project is to make the catamaran “fly” above the water’s surface at a low speed by adding foils. And since the boat is intended for recreational use, it needs to be user-friendly for individuals without navigation experience.&lt;/p&gt;</description>
     </item>
   </channel>
