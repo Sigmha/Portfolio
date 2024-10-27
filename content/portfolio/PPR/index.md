@@ -6,7 +6,7 @@ jobDate: 2021-2023
 work: [Research, Fluid dynamics]
 techs: [Latex]
 designs: []
-thumbnail: PPR/head.jpg
+thumbnail: head_ppr.jpg
 projectUrl: 'https://www.mio.osupytheas.fr/en/'
 ---
 
@@ -18,4 +18,4 @@ This work is mainly bibliographical since I knew little about fluid mechanics an
 
 Do not hesitate to check my work on the pdf below, but be aware that it is written in French. You can still find an abstract in English on page 20.
 
-{{< embed-pdf url="RapportPPR_CHANLOCK-Arthur.pdf" >}}
+{{< embed-pdf url="PPR_rapport.pdf" >}}
