@@ -2,82 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/Portfolio/designs/catia/</loc>
+    <loc>http://localhost:1313/designs/catia/</loc>
     <lastmod>2024-07-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/Portfolio/designs/</loc>
+    <loc>http://localhost:1313/designs/</loc>
     <lastmod>2024-07-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/Portfolio/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-07-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/Portfolio/techs/latex/</loc>
+    <loc>http://localhost:1313/techs/latex/</loc>
     <lastmod>2024-07-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/Portfolio/techs/matlab/</loc>
+    <loc>http://localhost:1313/techs/matlab/</loc>
     <lastmod>2024-07-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/Portfolio/portfolio/tuiva/</loc>
+    <loc>http://localhost:1313/portfolio/tuiva/</loc>
     <lastmod>2024-07-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/Portfolio/portfolio/</loc>
+    <loc>http://localhost:1313/portfolio/</loc>
     <lastmod>2024-07-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/Portfolio/techs/</loc>
+    <loc>http://localhost:1313/techs/</loc>
     <lastmod>2024-07-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/Portfolio/portfolio/ppr/</loc>
+    <loc>http://localhost:1313/portfolio/ppr/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/Portfolio/techs/d3/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/Portfolio/techs/javascript/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/Portfolio/designs/photoshop/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/Portfolio/portfolio/sample-project/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/Portfolio/post/archetypes/</loc>
+    <loc>http://localhost:1313/post/archetypes/</loc>
     <lastmod>2019-05-02T19:25:30+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/Portfolio/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2019-05-02T19:25:30+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/Portfolio/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

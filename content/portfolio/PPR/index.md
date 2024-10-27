@@ -2,19 +2,20 @@
 title: Marine currents and poullution movement
 description: This is the description of our sample project
 date: "2023-07-06"
-jobDate: 2022-2023
+jobDate: 2021-2023
 work: [Research, Fluid dynamics]
 techs: [Latex]
 designs: []
 thumbnail: PPR/head.jpg
-projectUrl: ''
+projectUrl: 'https://www.mio.osupytheas.fr/en/'
 ---
 
-This would be a description of your sample project. You can add any content you'd like.
+Here, I studied currents to forecast litter’s movement in oceans.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This was a research project I made during 2 years with the Mediterranean Institute of Oceanology laboratory in Toulon and was supervised by Yann Ourmières, a researcher.
+
+This work is mainly bibliographical since I knew little about fluid mechanics and numerical simulation at the time, but I managed to learn a lot about those fields and this project actually made me choose to study simulation engineering.
+
+Do not hesitate to check my work on the pdf below, but be aware that it is written in French. You can still find an abstract in English on page 20.
+
+{{< embed-pdf url="RapportPPR_CHANLOCK-Arthur.pdf" >}}
