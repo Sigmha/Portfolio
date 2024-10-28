@@ -41,7 +41,7 @@
   <div class="intro">
     <div class="logo-container">
       <a href="/Portfolio">
-        <img src='http://localhost:1313/Portfolio/images/arthur.jpg' alt="Profile Catia" class="rounded-logo">
+        <img src='http://localhost:1313/Portfolio/images/arthur.jpg' alt="Profile Designs" class="rounded-logo">
       </a>
     </div>
     <h2>Hi, I'm Arthur!</h2>
@@ -102,7 +102,7 @@
     <div class="intro">
       <div class="logo-container">
         <a href="/">
-          <img src='http://localhost:1313/Portfolio/images/arthur.jpg.jpg' alt="Profile Catia" class="rounded-logo">
+          <img src='http://localhost:1313/Portfolio/images/arthur.jpg.jpg' alt="Profile Designs" class="rounded-logo">
         </a>
       </div>
       <h2>Hi, I'm Arthur!</h2>
@@ -259,36 +259,36 @@
   @-webkit-keyframes spin {
     to { -webkit-transform: rotate(360deg); }
   }
-  </style><div class="embed-pdf-container" id="embed-pdf-container-d637cd8c">
-    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-d637cd8c">
-        <div class="pdf-loading" id="pdf-loading-d637cd8c"></div>
+  </style><div class="embed-pdf-container" id="embed-pdf-container-04224708">
+    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-04224708">
+        <div class="pdf-loading" id="pdf-loading-04224708"></div>
     </div>
     <div id="overlayText">
-      <a href="http://localhost:1313/Portfolio/about/CV.pdf" aria-label="Download" download>
+      <a href="https://sigmha.github.io/Portfolio/about/CV.pdf" aria-label="Download" download>
         <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
             <path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
         </svg>
       </a>
     </div>
-    <canvas class="pdf-canvas" id="pdf-canvas-d637cd8c"></canvas>
+    <canvas class="pdf-canvas" id="pdf-canvas-04224708"></canvas>
 </div>
 
-<div class="pdf-paginator" id="pdf-paginator-d637cd8c">
-    <button id="pdf-prev-d637cd8c">Previous</button>
-    <button id="pdf-next-d637cd8c">Next</button> &nbsp; &nbsp;
+<div class="pdf-paginator" id="pdf-paginator-04224708">
+    <button id="pdf-prev-04224708">Previous</button>
+    <button id="pdf-next-04224708">Next</button> &nbsp; &nbsp;
     <span>
-      <span class="pdf-pagenum" id="pdf-pagenum-d637cd8c"></span> / <span class="pdf-pagecount" id="pdf-pagecount-d637cd8c"></span>
+      <span class="pdf-pagenum" id="pdf-pagenum-04224708"></span> / <span class="pdf-pagecount" id="pdf-pagecount-04224708"></span>
     </span>
-    <a class="pdf-source" id="pdf-source-d637cd8c" href="http://localhost:1313/Portfolio/about/CV.pdf">[pdf]</a>
+    <a class="pdf-source" id="pdf-source-04224708" href="https://sigmha.github.io/Portfolio/about/CV.pdf">[pdf]</a>
 </div>
 
 <noscript>
-View the PDF file <a class="pdf-source" id="pdf-source-noscript-d637cd8c" href="http://localhost:1313/Portfolio/about/CV.pdf">here</a>.
+View the PDF file <a class="pdf-source" id="pdf-source-noscript-04224708" href="https://sigmha.github.io/Portfolio/about/CV.pdf">here</a>.
 </noscript>
 
 <script type="text/javascript">
     (function(){
-    var url = 'http:\/\/localhost:1313\/Portfolio\/about\/CV.pdf';
+    var url = 'https:\/\/sigmha.github.io\/Portfolio\/about\/CV.pdf';
 
     var hidePaginator = "" === "true";
     var hideLoader = "" === "true";
@@ -307,10 +307,10 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-d637cd8c" href="
         pageRendering = false,
         pageNumPending = null,
         scale = 3,
-        canvas = document.getElementById('pdf-canvas-d637cd8c'),
+        canvas = document.getElementById('pdf-canvas-04224708'),
         ctx = canvas.getContext('2d'),
-        paginator = document.getElementById("pdf-paginator-d637cd8c"),
-        loadingWrapper = document.getElementById('pdf-loadingWrapper-d637cd8c');
+        paginator = document.getElementById("pdf-paginator-04224708"),
+        loadingWrapper = document.getElementById('pdf-loadingWrapper-04224708');
 
 
     
@@ -348,7 +348,7 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-d637cd8c" href="
       });
 
       
-      document.getElementById('pdf-pagenum-d637cd8c').textContent = num;
+      document.getElementById('pdf-pagenum-04224708').textContent = num;
     }
 
     
@@ -392,7 +392,7 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-d637cd8c" href="
       pageNum--;
       queueRenderPage(pageNum);
     }
-    document.getElementById('pdf-prev-d637cd8c').addEventListener('click', onPrevPage);
+    document.getElementById('pdf-prev-04224708').addEventListener('click', onPrevPage);
 
     
 
@@ -403,14 +403,14 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-d637cd8c" href="
       pageNum++;
       queueRenderPage(pageNum);
     }
-    document.getElementById('pdf-next-d637cd8c').addEventListener('click', onNextPage);
+    document.getElementById('pdf-next-04224708').addEventListener('click', onNextPage);
 
     
 
     pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
       pdfDoc = pdfDoc_;
       var numPages = pdfDoc.numPages;
-      document.getElementById('pdf-pagecount-d637cd8c').textContent = numPages;
+      document.getElementById('pdf-pagecount-04224708').textContent = numPages;
 
       
       if(pageNum > numPages) {
