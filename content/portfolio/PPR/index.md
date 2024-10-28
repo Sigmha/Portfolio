@@ -6,7 +6,7 @@ jobDate: 2021-2023
 work: [Research, Fluid dynamics]
 techs: [Latex]
 designs: []
-thumbnail: PPR/head_ppr.jpg
+thumbnail: /Portfolio/images/head_ppr.jpg
 projectUrl: 'https://www.mio.osupytheas.fr/en/'
 ---
 

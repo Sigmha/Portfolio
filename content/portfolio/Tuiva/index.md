@@ -6,7 +6,7 @@ jobDate: 2024
 work: [Finite differences, programming]
 techs: [MatLab, Latex]
 designs: [Catia]
-thumbnail: Tuiva/head_tuiva.jpg
+thumbnail: /Portfolio/images/head_tuiva.jpg
 projectUrl: 'https://tuiva.fr/#'
 ---
 
