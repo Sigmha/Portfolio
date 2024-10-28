@@ -18,4 +18,4 @@ This work is mainly bibliographical since I knew little about fluid mechanics an
 
 Do not hesitate to check my work on the pdf below, but be aware that it is written in French. You can still find an abstract in English on page 20.
 
-{{< embed-pdf url="https://sigmha.github.io/Portfolio/portfolio/PPR/PPR_rapport.pdf" >}}
+{{< embed-pdf url="PPR_rapport.pdf" >}}

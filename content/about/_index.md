@@ -7,4 +7,4 @@ images: ["/images/arthur.jpg"]
 
 Here is my resume !
 
-{{< embed-pdf url="https://sigmha.github.io/Portfolio/about/CV.pdf" renderPageNum="1" >}} 
+{{< embed-pdf url="CV.pdf" >}} 

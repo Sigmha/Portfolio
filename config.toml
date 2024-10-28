@@ -49,6 +49,16 @@ enableInlineShortcodes = true
   favicon = ""
   customCSS = ""
 
+[params.work_images]
+  PPR = "/images/head_ppr.jpg"
+  Tuiva = "/images/head_tuiva.jpg" 
+
+[params.pdf_files]
+  PPR = "/images/PPR_rapport.pdf"
+  Tuiva = "/images/Projet_twino"
+  CV = "/images/CV.pdf"
+
+
 [params.social]
 #  github = "https://github.com/Sigmha"
   linkedin = "https://www.linkedin.com/in/arthur-chan-lock-321168295/?originalSubdomain=fr"
