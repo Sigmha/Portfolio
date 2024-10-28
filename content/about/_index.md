@@ -7,4 +7,4 @@ images: ["/images/arthur.jpg"]
 
 Here is my resume !
 
-{{< embed-pdf url="CV.pdf" >}} 
+{{< embed-pdf url="/Portfolio/images/CV.pdf" >}} 

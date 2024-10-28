@@ -21,4 +21,4 @@ Overall, this project taught me how to work as a team by relying on my coworkers
 If you are interested, you can read our work below on this page but be aware that the whole document is in French. You can find an abstract in English on page 2. Then you can find my work on pages 14-16 and my code on pages 25-28.
 
 
-{{< embed-pdf url="Projet_Twino.pdf" >}}
+{{< embed-pdf url="/Portfolio/images/Projet_Twino.pdf" >}}
